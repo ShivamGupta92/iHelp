@@ -48,6 +48,7 @@ https://www.figma.com/proto/znELl6hEQN1IqDbIIWoKej/iHelp?node-id=55-202&scaling=
 ## TechStack Used
 
 - Here we have used HTML, CSS, JavaScript, React for Web Development and added Solana payment gateway using Blockchain based technology.
+- Used MetaMask
 - To know more about Solana: https://solana.com/
 
 ## Contact Us
