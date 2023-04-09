@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <script src="../welfare-gh-pages/Javascript/donation.js"></script>
-    <title>iHelp by Hash Heroes</title>
+    <title>IHelp by Hash Heroes</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -32,7 +32,7 @@
     
   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-      <a class="navbar-brand" href="index.html">iHelp</a>
+      <a class="navbar-brand" href="index.html">IHelp</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
@@ -59,12 +59,11 @@
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-7 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Doing Nothing is Not An Option of Our Life</h1>
-            <p class="mb-5" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Created by team iHelp</a></p>
-            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/6lNeoKqjsLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+            <p class="mb-5" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Created by team Hash Heroes</a></p>
             <iframe width="420" height="315"
               src="https://www.youtube.com/embed/6lNeoKqjsLU?autoplay=1&mute=1">
             </iframe>
-            <!-- <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="https://www.youtube.com/embed/6lNeoKqjsLU?autoplay=1&mute=0" class="btn btn-white btn-outline-white px-4 py-3 popup-vimeo"><span class="icon-play mr-2"></span>Watch Video</a></p> -->
+            <!-- <p data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><a href="https://www.youtube.com/embed/6lNeoKqjsLU" class="btn btn-white btn-outline-white px-4 py-3 popup-vimeo"><span class="icon-play mr-2"></span>Watch Video</a></p> -->
           </div>
         </div>
       </div>
@@ -87,7 +86,8 @@
               <div class="text">
               	<h3 class="mb-4">Donate Money</h3>
               	<p>Even the all-powerful Pointing has no control about the blind texts.</p>
-                <button id="donate-button">Donate Now</button>
+                <!-- <button id="donate-button">Donate Now</button> -->
+                <button id="donate-button" onclick="main()">Connect Wallet</button>
               	<!-- <p><a href="#" class="btn btn-white px-3 py-2 mt-2"></a><button id="donate-button">Donate Now</button></p> -->
               </div>
             </div>
@@ -252,7 +252,7 @@
         <div class="row">
         	<div class="col-lg-4 d-flex mb-sm-4 ftco-animate">
         		<div class="staff">
-        			<div class="d-flex mb-4">
+              <div class="d-flex mb-4">
         				<div class="img" style="background-image: url(images/Shivam_Photo.jpg);"></div>
         				<div class="info ml-4">
         					<h3><a href="teacher-single.html">Shivam Gupta</a></h3>
@@ -286,7 +286,7 @@
         					<h3><a href="teacher-single.html">Priyanshu Kumar Saw</a></h3>
         					<span class="position">Donated Just now</span>
         					<div class="text">
-		        				<p>Donated <span> ₹250</span> for <a href="#">Children Needs Cloth</a></p>
+		        				<p>Donated <span> ₹250</span> for <a href="#">Children Needs Food</a></p>
 		        			</div>
         				</div>
         			</div>
@@ -433,7 +433,7 @@
               </a>
               <div class="text p-4 d-block">
               	<div class="meta mb-3">
-                  <div><a href="#">March. 10, 2022</a></div>
+                  <div><a href="#"> March. 10, 2018</a></div>
                   <div><a href="#">Admin</a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
                 </div>
@@ -571,7 +571,7 @@
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Chandigarh University, Mohali, Chandigarh, 140413</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 98 11196 7896 </span></a></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 99 9999 9999 </span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">www.linkedin.com/in/shivam-gupta-453b13217</span></a></li>
 	              </ul>
 	            </div>
@@ -595,6 +595,19 @@
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
+  <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js"
+        type="application/javascript">
+  </script>
+
+  <script>
+    function donate() {
+      if (window.solana) {
+        window.solana.connect();
+      } else {
+        alert("Please install Solana Wallet");
+      }
+    }
+  </script>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
