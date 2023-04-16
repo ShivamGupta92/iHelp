@@ -78,10 +78,10 @@ Our team will be always happy to sort out it as soon as possible.
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Main Theme | ![#f86f2d](https://via.placeholder.com/10/f86f2d?text=+) #f86f2d |
-| Example Color | ![#fa8f3d](https://via.placeholder.com/10/fa8f3d?text=+) #fa8f3d |
-| Example Color | ![#faaa3a](https://via.placeholder.com/10/faaa3a?text=+) #faaa3a |
-| Example Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
+| Primary Color | ![#f86f2d](https://via.placeholder.com/10/f86f2d?text=+) #f86f2d |
+| Secondary Color | ![#fa8f3d](https://via.placeholder.com/10/fa8f3d?text=+) #fa8f3d |
+| Support Color | ![#faaa3a](https://via.placeholder.com/10/faaa3a?text=+) #faaa3a |
+|  Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
 
 
 ## FAQ
