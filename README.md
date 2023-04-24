@@ -87,13 +87,6 @@ Our team will be always happy to sort out it as soon as possible.
 ## FAQ
 
 #### Question
-Can you explain in more detail how your platform uses blockchain technology?
-
-Answer
-
-Our platform uses blockchain technology to ensure the security and transparency of all transactions and interactions on the platform. Each NGO and donor account is encrypted with a unique private key, which ensures that all data and transactions are tamper-proof and can be easily audited. Additionally, blockchain technology enables us to create a decentralized database that can be easily accessed and shared by all NGOs and donors, which increases efficiency and reduces costs.( using Etherium blockchain with payment in solana to give cheaper option.)
-
-#### Question
 How do you plan to attract users to your platform?
 
 Answer
