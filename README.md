@@ -92,11 +92,3 @@ How do you plan to attract users to your platform?
 Answer
 
 We have a multi-pronged user acquisition strategy that includes social media marketing, partnerships with other organizations, and word-of-mouth referrals. We plan to leverage social media platforms like Facebook, Twitter, and Instagram to reach potential users and generate buzz around our platform. We also plan to partner with other organizations in the NGO sector, such as UNICEF and Save the Children, to gain credibility and increase our reach. Finally, we believe that word-of-mouth referrals will be a key driver of user growth, as satisfied users will be likely to recommend our platform to their friends and family.
-
-#### Question
-Can you provide more details about your revenue model and financial projections?
-
-Answer
-
-Our revenue model is based on a commission-based system, where we take a small percentage of each transaction made on the platform. This includes donations made to NGOs, as well as any fees associated with using the platform's resources, such as hiring volunteers or renting equipment. Our expenses include platform development costs, marketing and user acquisition costs, and operational costs associated with maintaining the platform.
-
