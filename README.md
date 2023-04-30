@@ -100,9 +100,3 @@ Answer
 
 Our revenue model is based on a commission-based system, where we take a small percentage of each transaction made on the platform. This includes donations made to NGOs, as well as any fees associated with using the platform's resources, such as hiring volunteers or renting equipment. Our expenses include platform development costs, marketing and user acquisition costs, and operational costs associated with maintaining the platform.
 
-#### Question
-How do you plan to ensure the sustainability of your platform over the long term?
-
-Answer
-
-We believe that sustainability is key to the success of our platform, and we have several strategies in place to ensure that the platform remains viable over the long term. First, we plan to continually update and improve the platform based on user feedback, ensuring that it remains relevant and useful. Second, we plan to build partnerships with NGOs, donors, and other stakeholders in the sector to increase our reach and build a community around our platform. Finally, we plan to explore alternative revenue streams, such as selling data and insights derived from the platform's data, to supplement our commission-based revenue model.
