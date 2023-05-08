@@ -81,14 +81,3 @@ Our team will be always happy to sort out it as soon as possible.
 | Primary Color | ![#f86f2d](https://via.placeholder.com/10/f86f2d?text=+) #f86f2d |
 | Secondary Color | ![#fa8f3d](https://via.placeholder.com/10/fa8f3d?text=+) #fa8f3d |
 | Support Color | ![#faaa3a](https://via.placeholder.com/10/faaa3a?text=+) #faaa3a |
-|  Color | ![#000000](https://via.placeholder.com/10/000000?text=+) #000000 |
-
-
-## FAQ
-
-#### Question
-How do you plan to attract users to your platform?
-
-Answer
-
-We have a multi-pronged user acquisition strategy that includes social media marketing, partnerships with other organizations, and word-of-mouth referrals. We plan to leverage social media platforms like Facebook, Twitter, and Instagram to reach potential users and generate buzz around our platform. We also plan to partner with other organizations in the NGO sector, such as UNICEF and Save the Children, to gain credibility and increase our reach. Finally, we believe that word-of-mouth referrals will be a key driver of user growth, as satisfied users will be likely to recommend our platform to their friends and family.
