@@ -5,7 +5,7 @@
  - 0x402e4ddeba2eff4F5578717feA102e5593FaeffD
  
 # Connection with metamask
- - Install below web extension for smooth processing and easy in payment 
+ - Install below web extension for smooth processing and ease of payment 
   -https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm
   
 # iHelp 
