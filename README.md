@@ -48,7 +48,7 @@ We welcome contributions from developers who share our vision of using blockchai
 - https://www.youtube.com/embed/6lNeoKqjsLU?autoplay=1&mute=0
 ## Prototype
 
-Our prototype showcases a sleek and modern design, with a seamless interface that makes it easy to browse through NGOs by location, cause, or type of support provided. With rigorous screening processes in place to ensure accountability and transparency, you can rest easy knowing that your contributions are making a genuine impact on society.
+My prototype showcases a sleek and modern design, with a seamless interface that makes it easy to browse through NGOs by location, cause, or type of support provided. With rigorous screening processes in place to ensure accountability and transparency, you can rest easy knowing that your contributions are making a genuine impact on society.
 
 Get a glimpse of our vision and join us in making a difference in the world.
 
@@ -60,14 +60,10 @@ https://www.figma.com/proto/znELl6hEQN1IqDbIIWoKej/iHelp?node-id=55-202&scaling=
 - Used MetaMask
 - To know more about Solana: https://solana.com/
 
-## Contact Us
+## Write Us
 
-If you have any questions or feedback about iHelp, please do not hesitate to contact us at +91 98111 67896. 
-Our team is always happy to help and will get back to you as soon as possible.
-## Expectations
+If you have any questions or feedback about iHelp, mail me shivamgupta5203@gmail.com.
 
-If you find any bug at our iHelp platform please do reach to contact us at +91 98111 67896. 
-Our team will be always happy to sort out it as soon as possible.
 ## Authors
 
 - [Shivam Gupta](https://www.linkedin.com/in/shivam-gupta-453b13217)
