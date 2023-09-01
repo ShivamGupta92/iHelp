@@ -56,7 +56,7 @@ https://www.figma.com/proto/znELl6hEQN1IqDbIIWoKej/iHelp?node-id=55-202&scaling=
 
 ## TechStack Used
 
-- Here we have used HTML, CSS, JavaScript, React for Web Development and added Solana payment gateway using Blockchain based technology.
+- Here we have used HTML, CSS, JavaScript, React for Web Development and added Metamask payment gateway using Blockchain based technology.
 - Used MetaMask
 - To know more about Solana: https://solana.com/
 
@@ -68,8 +68,8 @@ If you have any questions or feedback about iHelp, mail me shivamgupta5203@gmail
 
 - [Shivam Gupta](https://www.linkedin.com/in/shivam-gupta-453b13217)
 - [Priyanshu Kumar Saw](https://www.linkedin.com/in/priyanshu-kumar-saw-85b847157/)
-- [Sangam Suman](https://www.linkedin.com/in/sangamsuman/)
 - [Nancy](https://www.linkedin.com/in/nancy-30077b230/)
+  
 ## Color Reference
 
 | Color             | Hex                                                                |
